@@ -1,0 +1,25 @@
+/**
+* @name Fabric Framework
+* @author David Karigithu
+* @since 30-04-2017
+*
+* 1 - General
+* 2 - Navigation
+* 3 - Banner
+* 4 - Footer
+* 5 - Documentation
+* 6 - 
+*/
+
+### Fabric
+$purpleDiff: #8B4D93
+$purple: #3E033F
+$purpleHightlight: #6F2480
+$silverDiff: #F4EDF6
+$silver: #F0F0F0
+$silverHighlight: #F0F0F0
+
+.navbar {
+	background: #8B4D93;
+	border-bottom: 0;
+}
