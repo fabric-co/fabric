@@ -1,0 +1,15 @@
+[submodule "jfx"]
+	path = jfx
+	url = git@github.com:fabric-co/fabric-jfx.git
+[submodule "droid"]
+	path = droid
+	url = git@github.com:fabric-co/fabric-droid.git
+[submodule "common"]
+	path = common
+	url = git@github.com:fabric-co/fabric-common.git
+[submodule "react"]
+	path = react
+	url = git@github.com:fabric-co/fabric-react.git
+[submodule "ios"]
+	path = ios
+	url = git@github.com:fabric-co/fabric-ios.git
